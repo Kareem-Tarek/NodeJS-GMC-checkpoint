@@ -1,6 +1,6 @@
 # Some important notes that you need to read before testing any of the tasks (js files)!
 
-## Run all the tasks from here (the current directory of "README!.txt")
+### Run all the tasks from here (the current directory of "README!.txt")
     * How to run the tasks?
         - for example... run the following in the terminal => node checkpoint-tasks/[your_task_here.js]
 
