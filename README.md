@@ -1,15 +1,15 @@
-## Some important notes that you need to read before testing any of the tasks (js files)!
+# Some important notes that you need to read before testing any of the tasks (js files)!
 
-# Run all the tasks from here (the current directory of "README!.txt")
+## Run all the tasks from here (the current directory of "README!.txt")
     * How to run the tasks?
         - for example... run the following in the terminal => node checkpoint-tasks/[your_task_here.js]
 
-# You must install "generate-password" package before running [task_4.js]!
+## You must install "generate-password" package before running [task_4.js]!
     * How to install "generate-password" package?
         - Open terminal (cmd or git bash) and run => npm i generate-password
     * generate-password package documentation: https://www.npmjs.com/package/generate-password
 
-# You must install "nodemailer" package before running [task_5.js]!
+## You must install "nodemailer" package before running [task_5.js]!
     * How to install "nodemailer" package?
             - Open terminal (cmd or git bash) and run => ...
                 1- npm init --y
